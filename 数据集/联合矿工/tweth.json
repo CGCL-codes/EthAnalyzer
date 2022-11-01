@@ -1,0 +1,497 @@
+{
+    "hashrate": 29167793673,
+    "miners": {
+        "0x0080cc09227a570ae8b1a63a0dd7336bdf781b7a": {
+            "lastBeat": 1562988798,
+            "hr": 26478375,
+            "offline": false
+        },
+        "0x0664ed322526495cbd41927bb0897d8d15d3fb15": {
+            "lastBeat": 1562986920,
+            "hr": 7621951,
+            "offline": true
+        },
+        "0x0929523338a99473bb70f01dc4d5fb750ed03bcd": {
+            "lastBeat": 1562988851,
+            "hr": 119166666,
+            "offline": false
+        },
+        "0x09afcc95e1d1658676e13e02d44f734443cf188f": {
+            "lastBeat": 1562988858,
+            "hr": 436439499,
+            "offline": false
+        },
+        "0x101969b6d85b16c7a3cf558de6b6d0ddf915a72f": {
+            "lastBeat": 1562988803,
+            "hr": 90125173,
+            "offline": false
+        },
+        "0x172843853377772802ecaf54ef69dc5a29c0451f": {
+            "lastBeat": 1562988862,
+            "hr": 3025000000,
+            "offline": false
+        },
+        "0x174984cddc8ba51167e693c72b78f2e99edd7024": {
+            "lastBeat": 1562988862,
+            "hr": 220367278,
+            "offline": false
+        },
+        "0x19ac5561f44e8a473cbe8f2c9fb3a33e8ffd3d23": {
+            "lastBeat": 1562988779,
+            "hr": 53333333,
+            "offline": false
+        },
+        "0x1f277bc1e37af75e34612c66a762097b19af7317": {
+            "lastBeat": 1562988861,
+            "hr": 1176126878,
+            "offline": false
+        },
+        "0x203337134f83612a3e6f4b3d3b3b68a4515bbcde": {
+            "lastBeat": 1562988824,
+            "hr": 89476646,
+            "offline": false
+        },
+        "0x211e759e8ccadbb67bb239f04788b0e104c05785": {
+            "lastBeat": 1562988810,
+            "hr": 17167381,
+            "offline": false
+        },
+        "0x2653ce6cbb0c0ab60a5bb4578d27fa26824541b6": {
+            "lastBeat": 1562988860,
+            "hr": 208029197,
+            "offline": false
+        },
+        "0x2a6ca1574212ab5b32a58bb827f92ded4d06870f": {
+            "lastBeat": 1562988854,
+            "hr": 183792815,
+            "offline": false
+        },
+        "0x2bd820e235cff19b8136aabbf17b075ab0645587": {
+            "lastBeat": 1562988819,
+            "hr": 292518912,
+            "offline": false
+        },
+        "0x2c5ea651ffc96ff6cc6905af433cae82b5eaa48a": {
+            "lastBeat": 1562988859,
+            "hr": 555926544,
+            "offline": false
+        },
+        "0x2c9944141ef0535dcf808ffc66c53c65ec966f4e": {
+            "lastBeat": 1562988817,
+            "hr": 27444253,
+            "offline": false
+        },
+        "0x2d43d98430e1f7525a5b2e05b041f2245bb201e5": {
+            "lastBeat": 1562988860,
+            "hr": 335559265,
+            "offline": false
+        },
+        "0x304c17d49ca7192adecb78e19bff77a2a4cd8a3c": {
+            "lastBeat": 1562988820,
+            "hr": 27996500,
+            "offline": false
+        },
+        "0x310b5f61b29c7e7ea67abedd23ec04455ccf54eb": {
+            "lastBeat": 1562988858,
+            "hr": 225062517,
+            "offline": false
+        },
+        "0x31932e7fd5e7265180bb085ccf9867fddc106be3": {
+            "lastBeat": 1562988789,
+            "hr": 36687048,
+            "offline": false
+        },
+        "0x32b21c948fb28e3834203ef1be4a65e5c842a491": {
+            "lastBeat": 1562988850,
+            "hr": 227689741,
+            "offline": false
+        },
+        "0x34faaa028162c4d4e92db6abfa236a8e90ff2fc3": {
+            "lastBeat": 1562988854,
+            "hr": 18324607,
+            "offline": false
+        },
+        "0x3509f7bd9557f8a9b793759b3e3bfa2cd505ae31": {
+            "lastBeat": 1562988556,
+            "hr": 24698618,
+            "offline": false
+        },
+        "0x37c0a8de1d02576128730c573538554b864d3d40": {
+            "lastBeat": 1562988840,
+            "hr": 98333333,
+            "offline": false
+        },
+        "0x3bf4202774a6de2061017bf1a3706e91ebc9f547": {
+            "lastBeat": 1562988860,
+            "hr": 275467485,
+            "offline": false
+        },
+        "0x3ec45e14069d5c90002d7a2d3a7460e4406c6ef2": {
+            "lastBeat": 1562987461,
+            "hr": 4240282,
+            "offline": false
+        },
+        "0x3f44fdaca7392122c19c5fea6c8255f114a7ecaa": {
+            "lastBeat": 1562988861,
+            "hr": 200333889,
+            "offline": false
+        },
+        "0x4190d5c49aeb29298b43e27288d392dee226cc0a": {
+            "lastBeat": 1562988537,
+            "hr": 31322505,
+            "offline": false
+        },
+        "0x44b08b7d4ea478a69b42432d2039b63680307ab3": {
+            "lastBeat": 1562988816,
+            "hr": 28507546,
+            "offline": false
+        },
+        "0x4581513e4343164d6b22f44cbc48a13faa512bc4": {
+            "lastBeat": 1562988854,
+            "hr": 198775055,
+            "offline": false
+        },
+        "0x4598f592b44960922fa092e81401d868c5b9b86d": {
+            "lastBeat": 1562988766,
+            "hr": 60135516,
+            "offline": false
+        },
+        "0x4a7216ed149f884a6ac91c47c8105cc8875105be": {
+            "lastBeat": 1562988849,
+            "hr": 285079188,
+            "offline": false
+        },
+        "0x51bd2f2e3446a0032759342eac0a347dd307b3bb": {
+            "lastBeat": 1562988862,
+            "hr": 1363257365,
+            "offline": false
+        },
+        "0x576e425b0f974650d5cfa811a86073b3ae729d23": {
+            "lastBeat": 1562988839,
+            "hr": 41666666,
+            "offline": false
+        },
+        "0x5be7165a649eea64dca4429a36b2da0fa5402fa3": {
+            "lastBeat": 1562988843,
+            "hr": 38804254,
+            "offline": false
+        },
+        "0x5c1075dc485d09c4b247a9c1ac7a3b55718dc070": {
+            "lastBeat": 1562988859,
+            "hr": 835000000,
+            "offline": false
+        },
+        "0x5f01877a65248d9e2b7d677198b7ca121e6d3f6e": {
+            "lastBeat": 1562988482,
+            "hr": 58874458,
+            "offline": false
+        },
+        "0x600bda714a61dd0f731131e9e95cc74e4ffc6793": {
+            "lastBeat": 1562985539,
+            "hr": 1803426,
+            "offline": true
+        },
+        "0x612edaf4107d5a3d00da8d0ad7f50f609306c6a1": {
+            "lastBeat": 1562988860,
+            "hr": 1538354641,
+            "offline": false
+        },
+        "0x6490247083feab9c06a1c4ddf0fbac4f12ef1175": {
+            "lastBeat": 1562988586,
+            "hr": 14075067,
+            "offline": false
+        },
+        "0x67b736903335c34c28e0c9f252496066c9158421": {
+            "lastBeat": 1562988727,
+            "hr": 15206983,
+            "offline": false
+        },
+        "0x6e593d03926ef98bd9f46236d25238c275f8a839": {
+            "lastBeat": 1562988832,
+            "hr": 271964185,
+            "offline": false
+        },
+        "0x71b3abae4fba7a6e474ceaac4abaace0e2eb6d0e": {
+            "lastBeat": 1562988861,
+            "hr": 417964404,
+            "offline": false
+        },
+        "0x73dd54fbdb76f2444ae138868efbc0f89d9e4b1a": {
+            "lastBeat": 1562988862,
+            "hr": 689415041,
+            "offline": false
+        },
+        "0x754ee92ea2141f3ee99c7f662e9a0b87ed661a2d": {
+            "lastBeat": 1562988855,
+            "hr": 194490818,
+            "offline": false
+        },
+        "0x7a0189beddc13576501f84b28c852af456ecb048": {
+            "lastBeat": 1562988861,
+            "hr": 123883928,
+            "offline": false
+        },
+        "0x7a8d506c77ae410d65ee6db35143941e5ffb9f87": {
+            "lastBeat": 1562988851,
+            "hr": 121903701,
+            "offline": false
+        },
+        "0x7fb21ac4cd75d9de3e1c5d11d87bb904c01880fc": {
+            "lastBeat": 1562988649,
+            "hr": 32457496,
+            "offline": false
+        },
+        "0x81144245fac8378db7c20e30217cff5ff17ae175": {
+            "lastBeat": 1562988859,
+            "hr": 150083379,
+            "offline": false
+        },
+        "0x836c91304978dbdad0a0063b0dd7afb72ef6274b": {
+            "lastBeat": 1562988860,
+            "hr": 84613236,
+            "offline": false
+        },
+        "0x86b964fa9cb60d6083206b975c213cd0f7f072d4": {
+            "lastBeat": 1562988822,
+            "hr": 21708878,
+            "offline": false
+        },
+        "0x8d2ca0802e4ab1606f645185dcbc529bc39fa941": {
+            "lastBeat": 1562988853,
+            "hr": 181438127,
+            "offline": false
+        },
+        "0x926bbf466202b7c73d7fcee98f85dfb8e636abaa": {
+            "lastBeat": 1562988862,
+            "hr": 708727070,
+            "offline": false
+        },
+        "0x94df8bfc697c09e644c3f8f9feeb9c5ed4281362": {
+            "lastBeat": 1562988741,
+            "hr": 36020583,
+            "offline": false
+        },
+        "0x956193a0f6bf13e9d5c9b7122644f8a13840c8c0": {
+            "lastBeat": 1562988855,
+            "hr": 897414512,
+            "offline": false
+        },
+        "0x96b7c7f0117fbc0a835f60b9875d1d73f1c9d9f8": {
+            "lastBeat": 1562988843,
+            "hr": 76730608,
+            "offline": false
+        },
+        "0x9942dbea379e3c9cd4c4863d40031e227635279e": {
+            "lastBeat": 1562988692,
+            "hr": 28205128,
+            "offline": false
+        },
+        "0x9bb88d183501ed2dc9c3fe670163dac25fddea21": {
+            "lastBeat": 1562988862,
+            "hr": 1346581434,
+            "offline": false
+        },
+        "0xa2456de549180842e77fab2f9759b1ac5c328c3a": {
+            "lastBeat": 1562988857,
+            "hr": 230448093,
+            "offline": false
+        },
+        "0xa58ca277e59f80754a5023e1655a24902569ec9f": {
+            "lastBeat": 1562988833,
+            "hr": 282766313,
+            "offline": false
+        },
+        "0xa6328e1a38e68f4d43851e98a457bb6c963f81a0": {
+            "lastBeat": 1562988859,
+            "hr": 871317398,
+            "offline": false
+        },
+        "0xa67fb0ba296908f6f9c4cd7dcd26b83367d6e8d1": {
+            "lastBeat": 1562988839,
+            "hr": 58235797,
+            "offline": false
+        },
+        "0xac07b5744c6ba01cc2581fa5276b3910386cc9c1": {
+            "lastBeat": 1562988441,
+            "hr": 13904982,
+            "offline": false
+        },
+        "0xb0d2a2306852874395c334230b3a77dd958e4423": {
+            "lastBeat": 1562988850,
+            "hr": 173463687,
+            "offline": false
+        },
+        "0xb0dda90f6d38229969e7cff0ab625887a95266cc": {
+            "lastBeat": 1562988857,
+            "hr": 294396431,
+            "offline": false
+        },
+        "0xb189df81cbaf787d49c681df48040d6689ed810e": {
+            "lastBeat": 1562988801,
+            "hr": 27433628,
+            "offline": false
+        },
+        "0xb9cf2da90bdff1bc014720cc84f5ab99d7974eba": {
+            "lastBeat": 1562988860,
+            "hr": 20779220,
+            "offline": false
+        },
+        "0xbc1eb8d78369f7f4f326ee15a0e127eeb3aebd77": {
+            "lastBeat": 1562988830,
+            "hr": 132832080,
+            "offline": false
+        },
+        "0xc1c427cd8e6b7ee3b5f30c2e1d3f3c5536ec16f5": {
+            "lastBeat": 1562988839,
+            "hr": 20202020,
+            "offline": false
+        },
+        "0xc24ed757a1b5d94bd51646c86b70ad0c10cc849f": {
+            "lastBeat": 1562988859,
+            "hr": 223333333,
+            "offline": false
+        },
+        "0xc25a9aa4e24ad32bad62f08ee3fd5587a92e7c4e": {
+            "lastBeat": 1562988679,
+            "hr": 10423905,
+            "offline": false
+        },
+        "0xc575ea1e15138065090e13f8dc293908215223f0": {
+            "lastBeat": 1562988825,
+            "hr": 243739565,
+            "offline": false
+        },
+        "0xc6539c0440572d503a9a47fd8770856469d9b26b": {
+            "lastBeat": 1562988862,
+            "hr": 1782995276,
+            "offline": false
+        },
+        "0xc6f31a79526c641de4e432cb22a88bb577a67eac": {
+            "lastBeat": 1562988681,
+            "hr": 32208588,
+            "offline": false
+        },
+        "0xcdc804e406015950732c1dcccabc4145c2e2c11c": {
+            "lastBeat": 1562988815,
+            "hr": 116161616,
+            "offline": false
+        },
+        "0xcf8fdb6303308fa4269237286a32542dc6576181": {
+            "lastBeat": 1562988860,
+            "hr": 636540600,
+            "offline": false
+        },
+        "0xd178e169c2d8f752ef8f8d941f980b89f49ccdbb": {
+            "lastBeat": 1562988862,
+            "hr": 228460255,
+            "offline": false
+        },
+        "0xd34e1408e35341a7951bcdd6fce9b2e5fb4cb2d8": {
+            "lastBeat": 1562988657,
+            "hr": 7672634,
+            "offline": false
+        },
+        "0xd44e7d48e962112efe4dfc8895adcd8c5c68ae6c": {
+            "lastBeat": 1562988852,
+            "hr": 187395426,
+            "offline": false
+        },
+        "0xd704fadde1f485c2e2055f8e165864b2b63ee2be": {
+            "lastBeat": 1562988814,
+            "hr": 39293849,
+            "offline": false
+        },
+        "0xd8deb743da14ba92a00f33f3c87c20d516ca4e60": {
+            "lastBeat": 1562988854,
+            "hr": 281040268,
+            "offline": false
+        },
+        "0xd910059a054cffd4c2a0ae8a213584bd072983fb": {
+            "lastBeat": 1562988862,
+            "hr": 384380211,
+            "offline": false
+        },
+        "0xdb19632940c5e8d0c6ed699d25b8d1522b82e5e1": {
+            "lastBeat": 1562988853,
+            "hr": 355932203,
+            "offline": false
+        },
+        "0xde088812a9c5005b0dc8447b37193c9e8b67a1ff": {
+            "lastBeat": 1562988854,
+            "hr": 18586313,
+            "offline": false
+        },
+        "0xde4295d54f784b9579e5a62314ac0cfdddeb48d5": {
+            "lastBeat": 1562988836,
+            "hr": 19497784,
+            "offline": false
+        },
+        "0xdf435adf14db00f2bb01ea7e8b4c81c8b7edc6ef": {
+            "lastBeat": 1562988847,
+            "hr": 266722408,
+            "offline": false
+        },
+        "0xe19ffb70e148a76d26698036a9ffd22057967d1b": {
+            "lastBeat": 1562988525,
+            "hr": 37974683,
+            "offline": false
+        },
+        "0xe3a355c6f6c8603ed4545dbe153aacb9104ae761": {
+            "lastBeat": 1562988706,
+            "hr": 57642672,
+            "offline": false
+        },
+        "0xe3e1e41949e2289713fae879b2c66131dba2cfe3": {
+            "lastBeat": 1562988830,
+            "hr": 112967157,
+            "offline": false
+        },
+        "0xe557643905877d647741ec539e0d4312c080c246": {
+            "lastBeat": 1562988855,
+            "hr": 282008368,
+            "offline": false
+        },
+        "0xe86fac0fbad15d9e3bc5b2fb1f3e95af726b95ee": {
+            "lastBeat": 1562988761,
+            "hr": 51540284,
+            "offline": false
+        },
+        "0xee8d297709f0a8daa0bc975b8827610381b98148": {
+            "lastBeat": 1562988144,
+            "hr": 12727272,
+            "offline": false
+        },
+        "0xf0fb8d11075ca4cbe3a11e06de2e194ef8ba7254": {
+            "lastBeat": 1562988854,
+            "hr": 218697829,
+            "offline": false
+        },
+        "0xf8d1ef6dff42c51339bafd2601ec876b7a447ac2": {
+            "lastBeat": 1562988855,
+            "hr": 446666666,
+            "offline": false
+        },
+        "0xf95400bd3b4603d91a0c95c6e4867c18424018e2": {
+            "lastBeat": 1562988858,
+            "hr": 621237458,
+            "offline": false
+        },
+        "0xfafe3fa86983dd1f1db4d4ba9440abf80c2ea1da": {
+            "lastBeat": 1562988856,
+            "hr": 73294018,
+            "offline": false
+        },
+        "0xfe11e5388a1e7c1571e0a00e43bad3ad30ed56b6": {
+            "lastBeat": 1562988862,
+            "hr": 1265833333,
+            "offline": false
+        },
+        "0xff5f9514eb2bccc4a79ed5bbdcabeb566dc975d9": {
+            "lastBeat": 1562988862,
+            "hr": 1129166666,
+            "offline": false
+        }
+    },
+    "minersTotal": 98,
+    "now": 1562988866048
+}
